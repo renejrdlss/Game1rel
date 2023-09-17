@@ -1,0 +1,11 @@
+serviços : 
+ vendedor : 
+  git_url : https : //github.com/cloud66 - samples/acme.git
+   git_branch : mestre
+   dockerfile_path :  "./Dockerfile" 
+  build_root : vendedor
+  comprador : 
+  git_url : https : //github.com/cloud66 - samples/ acme.git
+   git_branch : mestre
+   dockerfile_path :  "./Dockerfile" 
+  build_root : comprador
